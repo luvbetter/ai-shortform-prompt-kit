@@ -1,6 +1,5 @@
 # ai-shortform-prompt-kit
 Open-source prompt templates and workflow guides for AI shortform video and brand content production.
-# AI Shortform Prompt Kit
 
 AI Shortform Prompt Kit is an open-source collection of prompt templates, workflow guides, and production checklists for creators, marketers, and small teams who make AI-generated shortform videos, brand visuals, character concepts, and social media content.
 
